@@ -1,0 +1,3 @@
+win32 설치 불가시            https://pypi.org/project/pywin32/#files 접속해서 자신의 python 버전에 맞는걸로 다운로드           pip install 파일명(경로포함) 치면 설치됨.
+win32 설치 불가시            https://pypi.org/project/pywin32/#files 접속해서 자신의 python 버전에 맞는걸로 다운로드           pip install 파일명(경로포함) 치면 설치됨.
+win32 설치 불가시            https://pypi.org/project/pywin32/#files 접속해서 자신의 python 버전에 맞는걸로 다운로드           pip install 파일명(경로포함) 치면 설치됨.
